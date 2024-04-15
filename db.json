@@ -16,7 +16,7 @@
       "age": 20,
       "companyId": "2"
     }
-  ]
+  ],
   "companies": [
     {
       "id": "1",
@@ -29,38 +29,6 @@
       "name": "BSU",
       "logo": "https://asset.loker.id/img/2018/10/logo-bsu-150x150.jpg",
       "description": "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services."
-    }
-  ]
-  "contacts": [
-    {
-      "name": "Animesh Roy",
-      "country": "India",
-      "phone": "2322984953",
-      "id": 1
-    },
-    {
-      "name": "Aakash Choudhury",
-      "country": "USA",
-      "phone": "4930384837",
-      "id": 2
-    },
-    {
-      "name": "Arun Dey",
-      "country": "Brazil",
-      "phone": "5748493812",
-      "id": 3
-    },
-    {
-      "name": "Vikash Choudhury",
-      "country": "New Zeland",
-      "phone": "9873625261",
-      "id": 4
-    },
-    {
-      "name": "Gaurav Gupta",
-      "country": "Russia",
-      "phone": "7002873284",
-      "id": 5
     }
   ]
 }
